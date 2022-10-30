@@ -2,7 +2,7 @@
 
 ### Hello! Welcome to my Github profile!
 
-## 😀 ผมคือใคร? / Who am I?
+## 😀 Who am I?
 
 ผมชื่อไนส์ อายุ `16` เป็นคนที่รักในการเขียนโค้ดมากๆ คนหนึ่ง
 
@@ -14,16 +14,17 @@
 
 ดังนั้น คุณสามารถติดตามผลงานต่างๆของผมได้ที่ [**nSys Website**](https://www.nsys.site) ได้เลย!
 
-## 👨‍💻 ภาษาการเขียนโค้ดของผม / My coding language
+## 👨‍💻 My coding language
 
 - [**Javascript**](https://www.javascript.com/)
 - [**Python**](https://www.python.org/)
 
-## 👨‍💻 ฐานข้อมูลที่ผมใช้ / My Databases
+## 👨‍💻 My Databases
 
 - [**MongoDB**](https://www.mongodb.com/)
 - [**MySQL**](https://www.mysql.com/)
 
-## 😀 โปรเจกต์ของผมที่อยากนำเสนอ / My Projects
+## 😀 My Projects
 
-- [**nSysBot**](https://www.aquabot.online) `บอทดิสคอร์ด ที่มีหลากหลายฟังก์ชัน`
+- [**nSysBot**](https://bot.nsys.site)
+- [**nSysLava**](https://www.npmjs.com/package/nsyslava)
