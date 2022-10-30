@@ -17,7 +17,6 @@
 ## 👨‍💻 ภาษาการเขียนโค้ดของผม / My coding language
 
 - [**Javascript**](https://www.javascript.com/)
-
 - [**Python**](https://www.python.org/)
 
 ## 👨‍💻 ฐานข้อมูลที่ผมใช้ / My Databases
